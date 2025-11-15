@@ -1,0 +1,27 @@
+html { background-color: #000000; color: #ffffff;
+font-size: 36px;
+font-family: APHont, Helvetica, sans-serif; }
+blockquote { background-color: #020202; 
+color: #fdfdfd;
+font-size: 62.5%;}                
+               
+@media(max-width: 600px) { html { font-size: 12px } }  
+
+            
+a { color: #ffccff }
+
+ul { text-align: left }
+
+ul li { display: inline; 
+		font-size: 62.5%;
+		margin:  50px;
+		padding: 0px;/*When commented out it makes the elements pushed to the right*/ }
+
+#share {  font-size: 0.618rem;}
+/*If [device width] is less than or equal to 500px, then do {…}”*/
+
+
+
+
+/* background-color: #fff2e6F2 */
+
